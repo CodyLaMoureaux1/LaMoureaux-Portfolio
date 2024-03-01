@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/CodyLaMoureaux1",
   resume:
     "https://docs.google.com/document/d/e/2PACX-1vSK5Kvhx58rK_GY5bZXManVBPzMVF3AIQKTiAf7f1h85SNq0tTvq7_W6CLYDGl0xJXdZ4nAho75Lld-/pub",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  linkedin: "https://www.linkedin.com/in/codylamoureaux/",
 
 };
 
@@ -164,7 +164,7 @@ export const education = [
     school: "University of Utah - Full stack Academy",
     date: "Aug 2023 - Feb 2024",
     grade: "4.0 Equivelent",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I recently completed a Full Stack Academy bootcamp, where I immersed myself in JavaScript, React, Node.js, Express.js, HTML, CSS, and more. Through hands-on projects, I honed my skills in both front-end and back-end development, gaining a solid foundation in building dynamic web applications. This intensive experience has equipped me with the technical prowess and collaborative mindset needed to excel in the field of software development.",
     degree: "Certificate of Completion",
   },
   
